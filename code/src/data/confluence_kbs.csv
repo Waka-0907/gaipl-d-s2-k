@@ -1,0 +1,6 @@
+Title,Content,Category,Difficulty Level
+Troubleshooting High CPU Usage,Step-by-step guide to identify and resolve CPU bottlenecks.,Troubleshooting,Intermediate
+Optimizing Database Performance,Best practices for faster database queries.,Optimization,Advanced
+Clearing Disk Space on Linux Servers,Tips and techniques for disk cleanup on Linux environments.,Best Practices,Beginner
+Reducing Network Latency in APIs,Techniques to minimize API response times in production.,Optimization,Advanced
+Debugging Memory Leaks in Applications,How to track and fix memory leaks in Java and Python programs.,Troubleshooting,Intermediate

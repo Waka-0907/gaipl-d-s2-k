@@ -1,0 +1,6 @@
+flask
+requests
+transformers
+pandas
+streamlit
+ansible-runner
